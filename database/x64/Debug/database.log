@@ -1,0 +1,7 @@
+﻿  select.cpp
+d:\onedrive - 경북대학교\대학원\논문(학회)\내 논문\13. 졸업논문\석사논문 코드\database (2020.6.5)\database\db.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  main.cpp
+d:\onedrive - 경북대학교\대학원\논문(학회)\내 논문\13. 졸업논문\석사논문 코드\database (2020.6.5)\database\db.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  db.cpp
+d:\onedrive - 경북대학교\대학원\논문(학회)\내 논문\13. 졸업논문\석사논문 코드\database (2020.6.5)\database\db.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory
+  코드를 생성하고 있습니다...

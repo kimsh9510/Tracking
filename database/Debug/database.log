@@ -1,0 +1,14 @@
+﻿  select.cpp
+c:\users\seon\documents\visual studio 2015\projects\database\database\db.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  main.cpp
+c:\users\seon\documents\visual studio 2015\projects\database\database\db.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  GetTimeT.cpp
+c:\users\seon\documents\visual studio 2015\projects\database\database\gettimet.cpp(38): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seon\documents\visual studio 2015\projects\database\database\gettimet.cpp(41): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seon\documents\visual studio 2015\projects\database\database\gettimet.cpp(44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\seon\documents\visual studio 2015\projects\database\database\gettimet.cpp(46): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GetDistance.cpp
+c:\users\seon\documents\visual studio 2015\projects\database\database\getdistance.cpp(18): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  db.cpp
+c:\users\seon\documents\visual studio 2015\projects\database\database\db.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+  코드를 생성하고 있습니다...
